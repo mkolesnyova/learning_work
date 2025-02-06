@@ -12,3 +12,4 @@ D:\learning_work\obj\Debug\net8.0\refint\learning_work.dll
 D:\learning_work\obj\Debug\net8.0\learning_work.pdb
 D:\learning_work\obj\Debug\net8.0\learning_work.genruntimeconfig.cache
 D:\learning_work\obj\Debug\net8.0\ref\learning_work.dll
+D:\learning_work\obj\Debug\net8.0\learning_work.sourcelink.json

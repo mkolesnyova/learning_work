@@ -1,26 +1,4 @@
-﻿
-interface IOperation
-{
-    double Call(params double[] args);
-}
-
-public class Operation : IOperation
-{
-
-    Func<double[], double> AimFunc;
-
-    public Operation(Func<double[], double> aimFunc)
-    {
-        AimFunc = aimFunc;
-    }
-
-    public double Call(params double[] args)
-    {
-        return AimFunc(args);
-    }
-}
-
-class Program
+﻿class Program
 {
     static void Main()
     {
