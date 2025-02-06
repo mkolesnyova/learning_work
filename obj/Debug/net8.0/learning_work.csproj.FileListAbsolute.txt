@@ -1,0 +1,14 @@
+D:\learning_work\obj\Debug\net8.0\learning_work.GeneratedMSBuildEditorConfig.editorconfig
+D:\learning_work\obj\Debug\net8.0\learning_work.AssemblyInfoInputs.cache
+D:\learning_work\obj\Debug\net8.0\learning_work.AssemblyInfo.cs
+D:\learning_work\obj\Debug\net8.0\learning_work.csproj.CoreCompileInputs.cache
+D:\learning_work\bin\Debug\net8.0\learning_work.exe
+D:\learning_work\bin\Debug\net8.0\learning_work.deps.json
+D:\learning_work\bin\Debug\net8.0\learning_work.runtimeconfig.json
+D:\learning_work\bin\Debug\net8.0\learning_work.dll
+D:\learning_work\bin\Debug\net8.0\learning_work.pdb
+D:\learning_work\obj\Debug\net8.0\learning_work.dll
+D:\learning_work\obj\Debug\net8.0\refint\learning_work.dll
+D:\learning_work\obj\Debug\net8.0\learning_work.pdb
+D:\learning_work\obj\Debug\net8.0\learning_work.genruntimeconfig.cache
+D:\learning_work\obj\Debug\net8.0\ref\learning_work.dll
