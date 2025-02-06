@@ -8,15 +8,15 @@ public class Operation : IOperation
 {
 
     Func<double[], double> AimFunc;
-    
+
     public Operation(Func<double[], double> aimFunc)
     {
-        AimFunc = aimFunc;        
+        AimFunc = aimFunc;
     }
 
     public double Call(params double[] args)
     {
-        return AimFunc(args);      
+        return AimFunc(args);
     }
 }
 
@@ -53,7 +53,7 @@ class Program
 
             if (!operations.ContainsKey(op))
             {
-                throw new Exception("Unkmown operation");               
+                throw new Exception("Unkmown operation");
             }
 
             double[] args = new double[0];
@@ -63,7 +63,7 @@ class Program
                 string[] input_args = Console.ReadLine().Split(' ');
                 args = Array.ConvertAll(input_args, double.Parse);
             }
-            
+
 
             Validation(op, args);
             double result = operations[op].Call(args);
@@ -74,7 +74,7 @@ class Program
         {
             Console.WriteLine($"Error: {ex.Message}");
         }
-       
+
 
     }
 
@@ -89,9 +89,9 @@ class Program
         if (op == "sqrt" && args[0] < 0)
             throw new Exception("Can't calculate sqrt of a negative number");
 
-        if ((op == "pi" || op == "e") && args.Length > 0) 
+        if ((op == "pi" || op == "e") && args.Length > 0)
             throw new Exception($"Operation '{op}' doesn't take any arguments");
-               
+
     }
 
 }
