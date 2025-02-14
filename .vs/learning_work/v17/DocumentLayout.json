@@ -3,28 +3,10 @@
   "WorkspaceRootPath": "D:\\learning_work\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{754E404D-E86B-4E99-AAA3-FD6B8B21E6A3}|learning_work.csproj|D:\\learning_work\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{754E404D-E86B-4E99-AAA3-FD6B8B21E6A3}|learning_work.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AC0CE85A-6292-4776-B843-651655C0DB03}|..\\LauncherCalc\\LauncherCalc.csproj|d:\\launchercalc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{754E404D-E86B-4E99-AAA3-FD6B8B21E6A3}|learning_work.csproj|D:\\learning_work\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{754E404D-E86B-4E99-AAA3-FD6B8B21E6A3}|learning_work.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{754E404D-E86B-4E99-AAA3-FD6B8B21E6A3}|learning_work.csproj|d:\\learning_work\\operationscatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{754E404D-E86B-4E99-AAA3-FD6B8B21E6A3}|learning_work.csproj|solutionrelative:operationscatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{754E404D-E86B-4E99-AAA3-FD6B8B21E6A3}|learning_work.csproj|D:\\learning_work\\operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{754E404D-E86B-4E99-AAA3-FD6B8B21E6A3}|learning_work.csproj|solutionrelative:operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{754E404D-E86B-4E99-AAA3-FD6B8B21E6A3}|learning_work.csproj|D:\\learning_work\\ioperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{754E404D-E86B-4E99-AAA3-FD6B8B21E6A3}|learning_work.csproj|solutionrelative:ioperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{754E404D-E86B-4E99-AAA3-FD6B8B21E6A3}|learning_work.csproj|D:\\learning_work\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{754E404D-E86B-4E99-AAA3-FD6B8B21E6A3}|learning_work.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{444F4EAA-96CE-478B-8A8B-5CD5573C2E75}|..\\WindowsFormsCalc\\WindowsFormsCalc.csproj|d:\\windowsformscalc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +16,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,79 +28,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "OperationsCatalog.cs",
-              "DocumentMoniker": "D:\\learning_work\\OperationsCatalog.cs",
-              "RelativeDocumentMoniker": "OperationsCatalog.cs",
-              "ToolTip": "D:\\learning_work\\OperationsCatalog.cs",
-              "RelativeToolTip": "OperationsCatalog.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAACQAAAAJAAAA",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\WindowsFormsCalc\\Program.cs",
+              "RelativeDocumentMoniker": "..\\WindowsFormsCalc\\Program.cs",
+              "ToolTip": "D:\\WindowsFormsCalc\\Program.cs",
+              "RelativeToolTip": "..\\WindowsFormsCalc\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T18:51:58.23Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Operation.cs",
-              "DocumentMoniker": "D:\\learning_work\\Operation.cs",
-              "RelativeDocumentMoniker": "Operation.cs",
-              "ToolTip": "D:\\learning_work\\Operation.cs",
-              "RelativeToolTip": "Operation.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T17:02:44.057Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-13T23:13:33.696Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MainForm.cs",
-              "DocumentMoniker": "D:\\learning_work\\MainForm.cs",
-              "RelativeDocumentMoniker": "MainForm.cs",
-              "ToolTip": "D:\\learning_work\\MainForm.cs",
-              "RelativeToolTip": "MainForm.cs",
-              "ViewState": "AQIAAJoAAAAAAAAAAAAswLMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T18:12:20.013Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
-              "DocumentMoniker": "D:\\learning_work\\MainForm.cs",
-              "RelativeDocumentMoniker": "MainForm.cs",
-              "ToolTip": "D:\\learning_work\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
-              "RelativeToolTip": "MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T17:49:19.728Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IOperation.cs",
-              "DocumentMoniker": "D:\\learning_work\\IOperation.cs",
-              "RelativeDocumentMoniker": "IOperation.cs",
-              "ToolTip": "D:\\learning_work\\IOperation.cs",
-              "RelativeToolTip": "IOperation.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T17:00:45.277Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\learning_work\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\learning_work\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "DocumentMoniker": "D:\\LauncherCalc\\Program.cs",
+              "RelativeDocumentMoniker": "..\\LauncherCalc\\Program.cs",
+              "ToolTip": "D:\\LauncherCalc\\Program.cs",
+              "RelativeToolTip": "..\\LauncherCalc\\Program.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAowDwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T15:28:37.961Z",
+              "WhenOpened": "2025-02-13T20:46:27.386Z",
               "EditorCaption": ""
             }
           ]

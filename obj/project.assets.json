@@ -1,11 +1,47 @@
 {
   "version": 3,
   "targets": {
-    "net8.0-windows7.0": {}
+    "net8.0": {
+      "ICommon/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/ICommon.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ICommon.dll": {}
+        }
+      },
+      "OperationCatalog/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "ICommon": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/OperationCatalog.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/OperationCatalog.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "ICommon/1.0.0": {
+      "type": "project",
+      "path": "../ICommon/ICommon.csproj",
+      "msbuildProject": "../ICommon/ICommon.csproj"
+    },
+    "OperationCatalog/1.0.0": {
+      "type": "project",
+      "path": "../OperationCatalog/OperationCatalog.csproj",
+      "msbuildProject": "../OperationCatalog/OperationCatalog.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0-windows7.0": []
+    "net8.0": [
+      "ICommon >= 1.0.0",
+      "OperationCatalog >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Marina\\.nuget\\packages\\": {},
@@ -29,16 +65,23 @@
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net8.0-windows"
+        "net8.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net8.0-windows7.0": {
-          "targetAlias": "net8.0-windows",
-          "projectReferences": {}
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "D:\\ICommon\\ICommon.csproj": {
+              "projectPath": "D:\\ICommon\\ICommon.csproj"
+            },
+            "D:\\OperationCatalog\\OperationCatalog.csproj": {
+              "projectPath": "D:\\OperationCatalog\\OperationCatalog.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -53,8 +96,8 @@
       }
     },
     "frameworks": {
-      "net8.0-windows7.0": {
-        "targetAlias": "net8.0-windows",
+      "net8.0": {
+        "targetAlias": "net8.0",
         "imports": [
           "net461",
           "net462",
@@ -69,9 +112,6 @@
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
-          },
-          "Microsoft.WindowsDesktop.App.WindowsForms": {
-            "privateAssets": "none"
           }
         },
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"

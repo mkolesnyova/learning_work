@@ -13,3 +13,9 @@ D:\learning_work\obj\Debug\net8.0\learning_work.pdb
 D:\learning_work\obj\Debug\net8.0\learning_work.genruntimeconfig.cache
 D:\learning_work\obj\Debug\net8.0\ref\learning_work.dll
 D:\learning_work\obj\Debug\net8.0\learning_work.sourcelink.json
+D:\learning_work\obj\Debug\net8.0\learning_work.csproj.AssemblyReference.cache
+D:\learning_work\bin\Debug\net8.0\ICommon.dll
+D:\learning_work\bin\Debug\net8.0\ICommon.pdb
+D:\learning_work\obj\Debug\net8.0\learning.53EB4812.Up2Date
+D:\learning_work\bin\Debug\net8.0\OperationCatalog.dll
+D:\learning_work\bin\Debug\net8.0\OperationCatalog.pdb

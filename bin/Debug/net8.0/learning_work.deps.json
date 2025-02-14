@@ -7,14 +7,41 @@
   "targets": {
     ".NETCoreApp,Version=v8.0": {
       "learning_work/1.0.0": {
+        "dependencies": {
+          "ICommon": "1.0.0",
+          "OperationCatalog": "1.0.0"
+        },
         "runtime": {
           "learning_work.dll": {}
+        }
+      },
+      "ICommon/1.0.0": {
+        "runtime": {
+          "ICommon.dll": {}
+        }
+      },
+      "OperationCatalog/1.0.0": {
+        "dependencies": {
+          "ICommon": "1.0.0"
+        },
+        "runtime": {
+          "OperationCatalog.dll": {}
         }
       }
     }
   },
   "libraries": {
     "learning_work/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ICommon/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OperationCatalog/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
